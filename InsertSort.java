@@ -1,5 +1,3 @@
-package cs61b_algo;
-
 /**
  * @author Z
  *
